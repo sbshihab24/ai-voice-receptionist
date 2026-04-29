@@ -1,0 +1,98 @@
+JVAI (Join Venture AI) - Company Knowledge Base
+
+At JVAI, we deliver cutting-edge solutions that are fast, flexible, and designed for success.
+
+Basic Information
+Full Name: Join Venture AI (JVAI)
+Industry: Software Development and Artificial Intelligence
+Founded: 2024
+Headquarters: Dhaka, Bangladesh
+Company Type: Private company
+Team Size: Approximately 51-200 employees
+Office Address: Aqua Tower, 43 Mohakhali C/A, Level 12-13, Dhaka 121
+
+Company Focus
+JVAI builds AI-powered digital solutions for businesses.
+The mission is to help companies automate operations, scale faster, and make smarter decisions with AI.
+
+Core Areas
+AI Development
+Chatbot Systems (NLP-based)
+Web and Mobile App Development
+Data Processing and Analytics
+Machine Learning and Deep Learning
+AI Integration into existing systems
+
+Key Services
+1) Custom AI Solutions
+- Build AI models tailored for business needs
+- Model training and optimization
+
+2) NLP (Natural Language Processing)
+- Chatbots
+- Sentiment analysis
+- Text classification
+
+3) AI Integration
+- Add AI into existing software products
+- API and backend integration
+
+4) Data Engineering
+- Data cleaning
+- ETL pipeline implementation
+- Real-time analytics workflows
+
+5) App and Website Development
+- AI-powered applications
+- Smart UX/UI systems
+
+Additional Service List
+Web Development
+AI Development
+Mobile App Development
+SaaS Design
+WordPress Development
+Shopify Store
+Graphic Design
+
+Technology Stack
+Languages: Python, Java, Node.js
+Frameworks/Platforms: TensorFlow, modern ML models, Next.js
+AI Domains: Machine Learning, Deep Learning, Computer Vision, NLP
+Databases: MongoDB, PostgreSQL, MySQL
+
+Projects and Use Cases
+E-commerce recommendation systems
+Healthcare diagnostic AI
+Fraud detection systems
+Smart manufacturing optimization
+Customer service chatbots
+
+Reported Outcomes
+Reduced fraud losses by around 67 percent in some implementations
+Improved inventory systems
+Automated customer support
+
+Vision
+Combine human intelligence and AI to solve complex problems and drive innovation.
+Focus on accessible AI, startup/enterprise growth, and scalable AI systems.
+
+Work Culture
+Full-time office environment (9 AM - 6 PM)
+Engineering-focused teams
+Hands-on real AI projects
+
+Strengths
+Modern AI-focused startup
+Works on real-world business problems
+Uses current technologies
+Fast-growing and learning-oriented environment
+
+Considerations
+Founded in 2024 and still evolving as a newer company
+May be fast-paced with high learning expectations
+
+Contact
+Phone: +880 1332-840935
+Email: info@joinventureai.com
+Address: Aqua Tower, 43 Mohakhali C/A, Level 12-13, Dhaka 121

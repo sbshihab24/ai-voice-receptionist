@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Receptionist</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="stage">
+    <section class="phone-shell" aria-label="AI receptionist mobile interface">
+      <div class="phone-notch" aria-hidden="true"></div>
+
+      <div class="phone-content">
+        <p class="label">Live Voice Assistant</p>
+        <h1>AI Receptionist</h1>
+        <p id="status" class="status" data-state="idle">Ready to start your call</p>
+
+        <div class="controls">
+          <button id="startBtn" class="btn btn-start" type="button" onclick="startCall()">Start Call</button>
+          <button id="endBtn" class="btn btn-end" type="button" onclick="endCall()" disabled>End Call</button>
+        </div>
+
+        <p class="helper">Tap Start Call and speak naturally. The assistant will greet you first.</p>
+        <div id="audioMount" class="audio-mount" aria-hidden="true"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
